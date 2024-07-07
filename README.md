@@ -1,7 +1,7 @@
 # Portfolio
 Portfolio with various assignments
 
-##Guide
+## Guide
 
 - **Data exploration**: First I explore the data in pgAdmin4, aggregate and group the data and export the scripts into csv files 
 - **Formating csv files into xlsx**: Using the python script "convert_csv_to_excel.py", I converted the files from csv do xlxs using pandas. For your own use please change the directory.
